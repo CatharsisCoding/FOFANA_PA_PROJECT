@@ -28,6 +28,13 @@ Voici les touches pour jouer et le menu : (appuyer sur b)
 
 ![Capture d’écran du 2022-12-01 11-44-34](https://user-images.githubusercontent.com/97361977/205039869-c004447f-5539-4c00-ae70-2d93c191152e.png)
 
-On peut changé de scene en appuyant sur v
+On peut changer de scene en appuyant sur v
 
 ![Capture d’écran du 2022-12-01 11-59-21](https://user-images.githubusercontent.com/97361977/205040801-ca8a5379-a4ec-4c72-bcd1-b10658705c8c.png)
+
+on peut egalement lancer la version graphique en appuyant sur "c" dans le menu mais la version n'ai pas terminer
+
+![menu](https://user-images.githubusercontent.com/97361977/205041591-2bab767d-7217-434a-91ae-ad0182751138.jpg)
+
+
+le jeu comporte des sons
