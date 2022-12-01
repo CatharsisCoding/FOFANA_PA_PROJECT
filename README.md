@@ -1,6 +1,6 @@
 # Devoir-jeu-escrime
 
-pour lancer le jeu ils faut des imports voici comment les commandes qu’il faut faire dans le terminal linux avant de lancer le jeu:
+Pour lancer le jeu ils faut des imports voici comment les commandes qu’il faut faire dans le terminal linux avant de lancer le jeu:
 
 $ pip install pygame
 
@@ -8,13 +8,13 @@ $ pip install pynput
 
 $ pip install subprocess.run
 
-vous pouvez désormais lancer le jeu dans le dossier du jeu avec : 
+Vous pouvez désormais lancer le jeu dans le dossier du jeu avec : 
 
 $ cd FOFANA_PA_PROJECT
 
 $ python3 main.py 60 0.25 1 6 4 4  
 
-nous recommandons ces valeurs : 
+Je recommande ces valeurs : 
 
 60 correspond au nombre de fps ,0.25 a l’attack_speed, 1 au blocking_speed, 
 6 au movement_speed , 4 pour attack_range et blocking range
