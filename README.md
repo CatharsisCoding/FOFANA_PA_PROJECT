@@ -19,7 +19,8 @@ Je recommande ces valeurs :
 60 correspond au nombre de fps ,0.25 a l’attack_speed, 1 au blocking_speed, 
 6 au movement_speed , 4 pour attack_range et blocking range
 
-Voici le jeu sur terminal une fois lancé:
+
+Voici le jeu sur terminal une fois lancé: (le jeu comporte des sons)
 
 ![Capture d’écran du 2022-12-01 11-42-35](https://user-images.githubusercontent.com/97361977/205040487-a01c0549-06e3-4280-ac59-67fc79dbe7c0.png)
 
@@ -36,5 +37,3 @@ on peut egalement lancer la version graphique en appuyant sur "c" dans le menu m
 
 ![menu](https://user-images.githubusercontent.com/97361977/205041591-2bab767d-7217-434a-91ae-ad0182751138.jpg)
 
-
-le jeu comporte des sons
